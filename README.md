@@ -1,1 +1,3 @@
 # GitHubRemoteLinkTest
+小B把远端的仓库拉下来
+小B做个一些变动，然后把这个文件提交到远程仓库
